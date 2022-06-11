@@ -1,0 +1,22 @@
+{
+  "name": "ha-dapps-be",
+  "version": "1.0.0",
+  "description": "From IT Club with ❤️",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realTranQuocBao/HA-dApp-BE.git"
+  },
+  "keywords": [
+    "ha-dapps-be"
+  ],
+  "author": "HA+quocbaoit+ITClub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realTranQuocBao/HA-dApp-BE/issues"
+  },
+  "homepage": "https://github.com/realTranQuocBao/HA-dApp-BE#readme"
+}
